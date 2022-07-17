@@ -1,0 +1,10 @@
+----------------------------------
+32 - Character Password Generator:
+----------------------------------
+https://www.passwordpal.net/password-generator.php
+
+
+---------------------
+Datadog Monitor Link:
+---------------------
+https://www.datadoghq.com/blog/monitoring-kubernetes-with-datadog/
